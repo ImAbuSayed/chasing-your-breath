@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chasing-your-breath/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Chasing Your Breath](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chasing-your-breath/) |
+| **Get License** | [Commercial Licensing for Chasing Your Breath](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chasing-your-breath/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Midnight shadows dancing on your skin
+> I want to lose myself where you begin
+> Caught in the feeling of this slow-burn fire
+> Pulling you close in the heat of desire
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
