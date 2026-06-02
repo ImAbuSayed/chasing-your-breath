@@ -15,7 +15,7 @@
 | **Written On** | June 02, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/chasing-your-breath/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Chasing Your Breath](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chasing-your-breath/) |
+| **Get License** | [Get License For Chasing Your Breath](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/chasing-your-breath/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `5a65bae3d17dd69571f9bede0ee94deaa75c7196ca2a7b6ce3272784cef6af84` |
 | **Timestamp** | June 02, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
